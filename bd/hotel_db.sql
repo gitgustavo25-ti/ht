@@ -46,7 +46,7 @@ CREATE TABLE IF NOT EXISTS rooms (
 INSERT INTO rooms (room_number, host, type, price, details, photo, usuario_id) VALUES
 ('Victoria Falls Hotel', 20, 'Hotel', '550', 'Quarto independente com serviço.', 'images/c28a4216d269487d1a80072c0cf60544.jpg', 1),
 ('Chita Samfya Lodge', 15, 'Hotel', '450', 'Quarto independente com serviço.', 'images/e434cecc6cfa3b049462b124681bd0b8.jpg', 1),
-('Continental Hotel', 24, 'Hotel', '650', 'Quarto independente com serviço.', 'images/774b4bf86117f0d06f236c3a757471d9.jpg', 1),
+('Continental Hotel', 24, 'Hotel', '650', 'Quarto independente com serviço.', 'images/00a0024e151cc50c5722c32ccee686c9.jpg', 1),
 ('Fazenda Hotel Resort', 24, 'Fazenda', '450', 'Quarto independente com serviço.', 'images/ff47695ad6f2245479157b38b7cdc332.jpg', 1);
 
 
